@@ -1,4 +1,12 @@
-# Capstone_35
+# Capstone Grup 35: SmartCare
+Challlenge: Manufaktur dan Industri
+Anggota:
+1. Mohammad Haryodimas Dewantoro
+2. M. Tsani Alfarizi
+3. Kanany Zalika Febrianty
+4. Marissa Aulia Rossa
+5. Riyandi Panji Pradana
+
 Pada Github ini terdapat dataset untuk capstone project kami, Kode data science & AI, serta deploy model ke Web App Streamlit
 
 ## Dataset
