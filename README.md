@@ -1,17 +1,29 @@
 # Capstone_35
 Pada Github ini terdapat dataset untuk capstone project kami, Kode data science & AI, serta deploy model ke Web App Streamlit
+
 ## Dataset
 https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/data
+
 Dataset ini terdiri dari 10.000 titik data yang disimpan sebagai baris dengan 14 fitur dalam kolom:
+
 UID: Identifier unik yang berada dalam rentang 1 hingga 10.000.
+
 productID: Terdiri dari huruf L, M, atau H untuk variasi kualitas produk rendah (50% dari semua produk), sedang (30%), dan tinggi (20%), serta nomor serial yang spesifik untuk variasi.
+
 Air Temperature [K]: Suhu udara yang dihasilkan menggunakan proses berjalan acak kemudian dinormalisasi menjadi standar deviasi 2 K sekitar 300 K.
+
 Process Temperature [K]: Suhu proses yang dihasilkan menggunakan proses berjalan acak dinormalisasi menjadi standar deviasi 1 K, ditambahkan dengan suhu udara plus 10 K.
+
 Rotational Speed [rpm]: Kecepatan rotasi yang dihitung dari daya 2860 W, ditutup dengan noise yang tersebar normal.
+
 Torque [Nm]: Nilai torsi yang tersebar normal sekitar 40 Nm dengan σ = 10 Nm dan tidak ada nilai negatif.
+
 Tool Wear [min]: Penggunaan alat yang dihitung dengan menambahkan 5/3/2 menit penggunaan alat pada alat yang digunakan dalam proses berdasarkan variasi kualitas produk.
+
 Machine Failure: Label yang menunjukkan apakah mesin telah gagal dalam titik data ini untuk salah satu dari berikutnya:
+
 Target: Gagal atau Tidak
+
 Failure Type: Tipe Kegagalan
 
 ## Data Science dan AI
