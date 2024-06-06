@@ -42,17 +42,25 @@ adalah algoritma klasifikasi yang menggunakan teknik neural network untuk memper
 - Model dievaluasi dengan menggunakan:
 #### Classification Report
 Classification report adalah laporan yang menampilkan informasi tentang performansi model klasifikasi. Laporan ini biasanya berisi beberapa indikator, seperti:
+
 Accuracy: Akurasi model, yang didefinisikan sebagai jumlah prediksi yang benar dibandingkan dengan jumlah total prediksi.
+
 Precision: Presisi model, yang didefinisikan sebagai jumlah prediksi yang benar dibandingkan dengan jumlah total prediksi yang dianggap benar.
+
 Recall: Recall model, yang didefinisikan sebagai jumlah prediksi yang benar dibandingkan dengan jumlah total prediksi yang seharusnya benar.
-F1-score: F1-score model, yang didefinisikan sebagai rata-rata dari precision dan recall.
-Laporan ini dapat membantu dalam mengevaluasi performansi model dan membandingkan dengan model lainnya.
+
+F1-score: F1-score model, yang didefinisikan sebagai rata-rata dari precision dan recall. Laporan ini dapat membantu dalam mengevaluasi performansi model dan membandingkan dengan model lainnya.
 #### Confusion Matrix
 Confusion matrix adalah tabel yang menampilkan hasil prediksi model klasifikasi. Tabel ini berisi empat elemen:
+
 True Positive (TP): Jumlah prediksi yang benar untuk kelas yang dianggap benar.
+
 True Negative (TN): Jumlah prediksi yang benar untuk kelas yang dianggap salah.
+
 False Positive (FP): Jumlah prediksi yang salah untuk kelas yang dianggap salah.
+
 False Negative (FN): Jumlah prediksi yang salah untuk kelas yang dianggap benar.
+
 Confusion matrix dapat membantu dalam mengevaluasi performansi model dan memahami kesalahan yang terjadi.
 #### Stratified Kfold
 Stratified Kfold adalah teknik cross-validation yang digunakan untuk membagi data menjadi beberapa bagian yang seimbang. Teknik ini digunakan untuk memastikan bahwa setiap bagian memiliki proporsi kelas yang seimbang, sehingga performansi model dapat diperkirakan dengan lebih akurat.
