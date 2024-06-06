@@ -1,5 +1,6 @@
 # Capstone Grup 35: SmartCare
-Challlenge: Manufaktur dan Industri.
+Challlenge: Manufaktur dan Industri
+
 Anggota:
 1. Mohammad Haryodimas Dewantoro
 2. M. Tsani Alfarizi
