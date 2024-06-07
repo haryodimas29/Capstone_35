@@ -91,7 +91,7 @@ Dalam beberapa penelitian, stratified Kfold digunakan untuk membandingkan perfor
 - Model yang telah dilakukan training dan testing akan di deploy ke streamlit
 - Download file .pkl dari model
 
-## App Streamlit
+## App Streamlit (Link: https://kelompokk35.streamlit.app/ ).
 ### 1. Login Page
 Login dengan username dan password yang terdaftar
 ### 2. Main Menu
