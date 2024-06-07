@@ -92,3 +92,16 @@ Dalam beberapa penelitian, stratified Kfold digunakan untuk membandingkan perfor
 - Download file .pkl dari model
 
 ## App Streamlit
+### 1. Login Page
+Login dengan username dan password yang terdaftar
+### 2. Main Menu
+- Terdapat Box untuk upload file dataset csv untuk memprediksi kerusakan peralatan industri
+- Setelah diupload, dapat dilakukan visualisasi dataset seperti scatter plot, pie chart, dsb.
+
+### 3. Input Model untuk Prediksi
+- Terdapat pemilihan Model Machine Learning untuk melakukan prediksi kepada dataset. Pilihannya adalah, Random forest, Gradient Boosting, SVM, dan Neural Network (MLP)
+- Tekan tombol Evaluasi untuk mengecek hasil prediksi
+
+### 4. Hasil Evaluasi dan Prediksi dari Model
+- Setelah tombol Evaluasi ditekan, muncullah hasil evaluasi dari masing-masing mmodel yang berupa Akurasi, F1-score, cross-validation, confusion matrix
+- Selain itu, hasil prediksi yang berupa tabel perbandingan kegagalan yang diprediksi model dengan kegagalan aktual. Ada juga status dan aksi perbaikan dari masing-masing prediksi.
