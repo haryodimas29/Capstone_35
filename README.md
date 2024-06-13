@@ -93,7 +93,9 @@ Dalam beberapa penelitian, stratified Kfold digunakan untuk membandingkan perfor
 
 ## App Streamlit (Link: https://kelompokk35.streamlit.app/ ).
 ### 1. Login Page
-Login dengan username dan password yang terdaftar
+Login dengan username dan password yang terdaftar.
+- Username : abc
+- Password : 123
 ### 2. Main Menu
 - Terdapat Box untuk upload file dataset csv untuk memprediksi kerusakan peralatan industri
 - Setelah diupload, dapat dilakukan visualisasi dataset seperti scatter plot, pie chart, dsb.
